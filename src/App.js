@@ -1,8 +1,8 @@
 import React from "react";
-import Count from "./Count";
+import Info from "./Info";
 
 const App = () => {
-  return <Count />;
+  return <Info />;
 };
 
 export default App;
